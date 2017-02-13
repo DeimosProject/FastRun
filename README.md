@@ -1,2 +1,3 @@
 # FastRun
-Fast Run [router + funcs]
+
+Fast Run
